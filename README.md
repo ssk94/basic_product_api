@@ -1,3 +1,18 @@
+# Traversal 
+Download "task.py" file from the task_pro directory
+- To run the file use command as follows - <br/>
+`python3 task.py 5 5`
+
+- where 5 and 5 are the inputs for rows and columns of the matrix respectively (you can give any values for the rows and columns)
+
+- In task.py file, the variables are as follows - <br/>
+`p - row end index`<br/>
+`q - col end index`<br/>
+`r - row start index`<br/>
+`s - col start index`<br/>
+`a - matrix entries representation`<br/>
+`i - iterator`
+
 # basic_product_api
 ## Introduction
 CRUD APIs for product and product list using Django Rest Framework

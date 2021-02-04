@@ -27,4 +27,4 @@ class Product(models.Model):
     screen_size = models.CharField(max_length=200,default='')
     color = models.CharField(max_length=250,default='')
     hd_capacity = models.CharField(max_length=200,default='')
-
+    
